@@ -26,7 +26,6 @@ The Automated Inquiry Handling System is a Streamlit-based web application desig
 .
 ├── __pycache__/              # Cache files
 ├── faiss_index/              # FAISS index files
-├── .env                      # Environment variables
 ├── equipment_FAQS.txt        # FAQ text file
 ├── film_equipment.db         # SQLite database with film equipment data
 ├── main.py                   # Main application file
