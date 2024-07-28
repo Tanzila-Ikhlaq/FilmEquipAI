@@ -1,5 +1,7 @@
-streamlit 
+streamlit
 google-generativeai
+langchain-google-genai
+langchain
+vaderSentiment
+faiss-cpu
 python-dotenv
-crewai
-crewai_tools
